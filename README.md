@@ -15,7 +15,7 @@
 - 🧠 Passionate about functional programming, state machines, and BEAM internals  
 - 🪄 Currently contributing to projects like [Supabase Realtime](https://github.com/supabase/realtime)  
 - 🧪 Learning through building: Phoenix LiveView, Nx, Nerves, GenStage  
-- ✉️ Reach me at **thatjsguy555@gmail.com** — `logprophet@proton.me` coming soon?
+- ✉️ Reach me at **mw@logprophet.dev**
 
 > “I don’t debug — I divine.”
 
