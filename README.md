@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matt — aka logprophet</h1>
-<h3 align="center">Elixir Dev · Log Whisperer · Real-Time System Seer</h3>
+<h3 align="center">Elixir + JavaScript Dev · Real-Time System Seer · Frontend Explorer</h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -11,10 +11,10 @@
 
 ### 🧙 About Me
 
-- 🔭 Working on real-time systems, observability, and distributed Elixir tooling  
-- 🧠 Passionate about functional programming, state machines, and BEAM internals  
-- 🪄 Currently contributing to projects like [Supabase Realtime](https://github.com/supabase/realtime)  
-- 🧪 Learning through building: Phoenix LiveView, Nx, Nerves, GenStage  
+- 🔭 Working on real-time systems, observability, and high-performance frontend apps  
+- 🧠 Passionate about functional programming, state machines, and reactive UIs  
+- 🪄 Contributing to projects like [Supabase Realtime](https://github.com/supabase/realtime) and exploring bleeding-edge frontend frameworks  
+- ⚡ Big fan of **Qwik**, **Angular**, and **Solid** — pushing the boundaries of speed and interactivity  
 - ✉️ Reach me at **mw@logprophet.dev**
 
 > “I don’t debug — I divine.”
@@ -23,25 +23,25 @@
 
 ### 🧰 Languages & Platforms
 
-| Elixir | Go | JavaScript | HTML5 | CSS |
-|--------|----|------------|-------|-----|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" width="55" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="55" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" /> |
+| Elixir | Go | JavaScript | TypeScript | HTML5 | CSS |
+|--------|----|------------|------------|-------|-----|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" width="55" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="55" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" /> |
 
 ---
 
 ### ⚙️ Frameworks & Tools
 
-| Phoenix | LiveView | TailwindCSS | Postgres | NodeJS | Vue.js |
-|---------|----------|-------------|----------|--------|--------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phoenix/phoenix-original.svg" width="55" /> | <img src="https://img.shields.io/badge/LiveView-Funky%20Socket%20Magic-red?style=for-the-badge&logo=phoenix-framework&logoColor=white" height="28" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="55" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="55" /> |
+| Phoenix | Nest | Qwik | Angular | Solid | Deno |
+|---------|----------|------|---------|-------|--------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phoenix/phoenix-original.svg" width="55" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="55" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qwik/qwik-original.svg" width="55" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="55" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidjs/solidjs-original.svg" width="55" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/denojs/denojs-original-wordmark.svg" width="55" /> |
 
 ---
 
 ### 🧪 Tooling & Observability
 
-| Git | Docker | Postman | Thunder Client |
+| Git | Docker | Postman | Neovim |
 |-----|--------|---------|----------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="55" /> | <img src="https://raw.githubusercontent.com/thunderclient/thunder-client-support/master/images/thunder-icon.png" width="55" />|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="55" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="55" /> |
 
 ---
 
